@@ -1,0 +1,16 @@
+I:\UniversityManagementWebDotNet\UniversityManagementWebDotNet\bin\UniversityManagementWebDotNet.dll
+I:\UniversityManagementWebDotNet\UniversityManagementWebDotNet\bin\UniversityManagementWebDotNet.dll.config
+I:\UniversityManagementWebDotNet\UniversityManagementWebDotNet\bin\EntityFramework.xml
+I:\UniversityManagementWebDotNet\UniversityManagementWebDotNet\bin\EntityFramework.SqlServer.xml
+I:\UniversityManagementWebDotNet\UniversityManagementWebDotNet\bin\System.Web.Helpers.xml
+I:\UniversityManagementWebDotNet\UniversityManagementWebDotNet\bin\System.Web.Mvc.xml
+I:\UniversityManagementWebDotNet\UniversityManagementWebDotNet\bin\System.Web.Razor.xml
+I:\UniversityManagementWebDotNet\UniversityManagementWebDotNet\bin\System.Web.WebPages.xml
+I:\UniversityManagementWebDotNet\UniversityManagementWebDotNet\bin\System.Web.WebPages.Deployment.xml
+I:\UniversityManagementWebDotNet\UniversityManagementWebDotNet\bin\System.Web.WebPages.Razor.xml
+I:\UniversityManagementWebDotNet\UniversityManagementWebDotNet\bin\System.Web.Optimization.xml
+I:\UniversityManagementWebDotNet\UniversityManagementWebDotNet\bin\Newtonsoft.Json.xml
+I:\UniversityManagementWebDotNet\UniversityManagementWebDotNet\bin\Antlr3.Runtime.pdb
+I:\UniversityManagementWebDotNet\UniversityManagementWebDotNet\obj\Debug\UniversityManagementWebDotNet.dll
+I:\UniversityManagementWebDotNet\UniversityManagementWebDotNet\obj\Debug\UniversityManagementWebDotNet.pdb
+I:\UniversityManagementWebDotNet\UniversityManagementWebDotNet\obj\Debug\UniversityManagementWebDotNet.csprojResolveAssemblyReference.cache
